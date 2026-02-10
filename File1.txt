@@ -1,6 +1,0 @@
-This is a Test File used for curl tests.
-
-Apple
-AppleBanana
-
-Hello!
